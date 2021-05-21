@@ -1,98 +1,5 @@
-/* html, body, h1, h2, h3, h4, h5, h6 {
-    font-family: "Roboto", sans-serif;
-}
-
-html, body {
-    font-size: 15px;
-    line-height: 1.5;
-}
-
-body {
-    margin: 0;
-    display: block;
-    color: #000;
-    background-color: #f1f1f1;
-}
-
-div {
-    display: block;
-}
-
-.sub-body {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 16px;
-    max-width: 1400px;
-}
-
-.grid {
-    padding: 0 8px;
-}
-
-.left-column {
-    width: 33.33%;
-    float: left;
-}
-
-.right-column {
-    width: 66.66%;
-    float: left;
-}
-
-.content-left-column {
-    color: #757575;
-    background-color: #fff;
-    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
-}
-
-.image-block {
-    position: relative;
-}
-
-.text-on-block {
-    color: #000;
-    padding: 0.01em 16px;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-}
-
-.first-right-container {
-    padding: 0.01em 16px;
-    color: #000;
-    background-color: #fff;
-    margin-bottom: 16px;
-    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16px), 0 2px 10px 0 rgb(0 0 0 / 12%);
-}
-
-.seconde-right-container {
-    padding: 0.01em 16px;
-    color: #000;
-    background-color: #fff;
-    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16px), 0 2px 10px 0 rgb(0 0 0 / 12%);
-}
-
-.title-container {
-    color: #757575;
-    padding-top: 16px;
-    padding-bottom: 16px;
-}
-
-.div-container {
-    padding: 0.01em 16px;
-}
-
-.sub-title-container {
-    opacity: 0.60;
-}
-
-.under-sub-color {
-    color: #009688;
-} */
-
-
-html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
-
+html{box-sizing:border-box}
+*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}summary{display:list-item}
 audio,canvas,progress,video{display:inline-block}progress{vertical-align:baseline}
@@ -115,6 +22,7 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 [type=search]{-webkit-appearance:textfield;outline-offset:-2px}
 [type=search]::-webkit-search-decoration{-webkit-appearance:none}
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
+
 /* End extract */
 html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
 h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
